@@ -13,7 +13,7 @@
 # Valheim template ignores
 BuildTasks.[Dd]ll
 generated_files
-
+libs/*.dll
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
