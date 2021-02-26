@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+# Valheim template ignores
+BuildTasks.[Dd]ll
+generated_files
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
